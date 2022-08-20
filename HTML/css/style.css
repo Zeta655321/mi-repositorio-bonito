@@ -1,0 +1,65 @@
+    
+    *{
+margin: 0px;
+padding: 0px;
+
+    }
+
+article {border-bottom: 10px solid black;
+
+    margin-left: 50px;
+    margin-right: 50px;
+
+
+}
+
+main {background-color: gray;}
+    body { background-color: rgb(253, 0, 0);
+    margin: 0px;
+
+padding: 10px;}
+    
+    nav {background-color: black; 
+        
+        height: 50px;}
+        
+img { 
+width: 300px;
+height: 500px;
+margin-left: 40%;
+
+}
+
+.raoul{ margin-left: 55%;}
+
+header {
+    background-image:url("../IMAGENES/1366_2000.jpeg");
+    height: 600px;
+    background-repeat:round;
+    background-size: 100%;
+    position: relative;
+ 
+}
+
+
+    #title2 {  
+        color: white;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+position: absolute;
+text-shadow:0px 0px 5px blue ;
+}
+
+footer {color: rgb(6, 6, 6);}
+footer {background-color: red;}
+
+main h2 { 
+text-align: center;
+
+background-color: red;
+padding: 20px;
+margin-top: opx;
+ 
+
+ }
